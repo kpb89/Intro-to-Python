@@ -1,0 +1,570 @@
+**All actors in the database:
+  Alan Rickman
+  Alec Baldwin
+  Angelina Jolie
+  Anthony Hopkins
+  Antonio Banderas
+  Ben Affleck
+  Bill Nighy
+  Brad Pitt
+  Bruce Willis
+  Catherine Zeta Jones
+  Colin Firth
+  Daniel Radcliffe
+  Denzel Washington
+  Dustin Hoffman
+  Emma Thompson
+  Emma Watson
+  George Clooney
+  Gwyneth Paltrow
+  Hugh Grant
+  Jim Carrey
+  Johnny Depp
+  Julia Roberts
+  Julianne Moore
+  Kate Winslet
+  Kevin Bacon
+  Leonardo Di Caprio
+  Liam Neeson
+  Martin Freeman
+  Matt Damon
+  Meg Ryan
+  Morgan Freeman
+  Renee Zellweger
+  Rupert Glint
+  Russell Crowe
+  Salma Hayek
+  Sylvester Stallone
+  Tom Cruise
+  Tom Hanks
+  Will Smith
+
+**All movies in the database:
+  A Beautiful Mind
+  A Few Good Men
+  Ace Ventura
+  American Gangster
+  Apollo 13
+  Assassins
+  Blood Diamond
+  Bone Collector
+  Bounce
+  Bourne Identity
+  Bourne Ultimatum
+  Bruce Almighty
+  Catch Me If You Can
+  Cinderella Man
+  Desperado
+  Die Hard
+  Edward Scissorhands
+  Finding Neverland
+  Gambit
+  Gladiator
+  Good Will Hunting
+  Hannibal
+  Harry Potter and the Chamber of Secrets
+  Harry Potter and the Deathly Hallows: Part 1
+  Harry Potter and the Order of the Phoenix
+  Harry Potter and the Prisoner of Azkaban
+  Hitch
+  Intolerable Cruelty
+  Jerry Maguire
+  Lara Croft Tomb Raider
+  Love Actually
+  Me-Myself & Irene
+  Meet Joe Black
+  Men in Black
+  Million Dollar Baby
+  Mission Impossible
+  Mr & Mrs Smith
+  Nanny McPhee
+  Oceans Eleven
+  Pearl Harbor
+  Pretty Woman
+  Proof
+  Pulp Fiction
+  Pursuit of Happyness
+  Rambo
+  Rocky
+  Runaway Bride
+  Seven
+  Shakespeare in Love
+  Sleepers
+  Sleepless in Seattle
+  The Departed
+  The Edge
+  The Lost City
+  The Mask
+  The Mask of Zorro
+  The Pirates of Caribbean
+  The Siege
+  The Sixth Sense
+  Titanic
+  Top Gun
+  Troy
+  Wild Wild West
+  You have got mail
+
+**These actor pairs have appeared together:
+  Alan Rickman and Bill Nighy both appeared in
+     Harry Potter and the Deathly Hallows: Part 1
+     Love Actually
+  Alan Rickman and Colin Firth both appeared in
+     Gambit
+     Love Actually
+  Alan Rickman and Daniel Radcliffe both appeared in
+     Harry Potter and the Chamber of Secrets
+     Harry Potter and the Deathly Hallows: Part 1
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Alan Rickman and Emma Thompson both appeared in
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+     Love Actually
+  Alan Rickman and Emma Watson both appeared in
+     Harry Potter and the Chamber of Secrets
+     Harry Potter and the Deathly Hallows: Part 1
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Alan Rickman and Hugh Grant both appeared in
+     Love Actually
+  Alan Rickman and Liam Neeson both appeared in
+     Love Actually
+  Alan Rickman and Martin Freeman both appeared in
+     Love Actually
+  Alan Rickman and Rupert Glint both appeared in
+     Harry Potter and the Chamber of Secrets
+     Harry Potter and the Deathly Hallows: Part 1
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Alec Baldwin and Anthony Hopkins both appeared in
+     The Edge
+  Alec Baldwin and Ben Affleck both appeared in
+     Pearl Harbor
+  Angelina Jolie and Brad Pitt both appeared in
+     Mr & Mrs Smith
+  Angelina Jolie and Denzel Washington both appeared in
+     Bone Collector
+  Angelina Jolie and Morgan Freeman both appeared in
+     Bone Collector
+  Anthony Hopkins and Brad Pitt both appeared in
+     Meet Joe Black
+  Anthony Hopkins and Gwyneth Paltrow both appeared in
+     Proof
+  Anthony Hopkins and Julianne Moore both appeared in
+     Hannibal
+  Antonio Banderas and Catherine Zeta Jones both appeared in
+     The Mask of Zorro
+  Antonio Banderas and Salma Hayek both appeared in
+     Desperado
+  Ben Affleck and Gwyneth Paltrow both appeared in
+     Bounce
+  Ben Affleck and Matt Damon both appeared in
+     Good Will Hunting
+  Bill Nighy and Colin Firth both appeared in
+     Love Actually
+  Bill Nighy and Daniel Radcliffe both appeared in
+     Harry Potter and the Deathly Hallows: Part 1
+  Bill Nighy and Emma Thompson both appeared in
+     Love Actually
+  Bill Nighy and Emma Watson both appeared in
+     Harry Potter and the Deathly Hallows: Part 1
+  Bill Nighy and Hugh Grant both appeared in
+     Love Actually
+  Bill Nighy and Liam Neeson both appeared in
+     Love Actually
+  Bill Nighy and Martin Freeman both appeared in
+     Love Actually
+  Bill Nighy and Rupert Glint both appeared in
+     Harry Potter and the Deathly Hallows: Part 1
+  Brad Pitt and Dustin Hoffman both appeared in
+     Sleepers
+  Brad Pitt and George Clooney both appeared in
+     Oceans Eleven
+  Brad Pitt and Julia Roberts both appeared in
+     Oceans Eleven
+  Brad Pitt and Kevin Bacon both appeared in
+     Sleepers
+  Brad Pitt and Morgan Freeman both appeared in
+     Seven
+  Bruce Willis and Denzel Washington both appeared in
+     The Siege
+  Catherine Zeta Jones and George Clooney both appeared in
+     Intolerable Cruelty
+  Colin Firth and Emma Thompson both appeared in
+     Love Actually
+     Nanny McPhee
+  Colin Firth and Hugh Grant both appeared in
+     Love Actually
+  Colin Firth and Liam Neeson both appeared in
+     Love Actually
+  Colin Firth and Martin Freeman both appeared in
+     Love Actually
+  Daniel Radcliffe and Emma Thompson both appeared in
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Daniel Radcliffe and Emma Watson both appeared in
+     Harry Potter and the Chamber of Secrets
+     Harry Potter and the Deathly Hallows: Part 1
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Daniel Radcliffe and Rupert Glint both appeared in
+     Harry Potter and the Chamber of Secrets
+     Harry Potter and the Deathly Hallows: Part 1
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Denzel Washington and Morgan Freeman both appeared in
+     Bone Collector
+  Denzel Washington and Russell Crowe both appeared in
+     American Gangster
+  Dustin Hoffman and Kevin Bacon both appeared in
+     Sleepers
+  Emma Thompson and Emma Watson both appeared in
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Emma Thompson and Hugh Grant both appeared in
+     Love Actually
+  Emma Thompson and Liam Neeson both appeared in
+     Love Actually
+  Emma Thompson and Martin Freeman both appeared in
+     Love Actually
+  Emma Thompson and Rupert Glint both appeared in
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  Emma Watson and Rupert Glint both appeared in
+     Harry Potter and the Chamber of Secrets
+     Harry Potter and the Deathly Hallows: Part 1
+     Harry Potter and the Order of the Phoenix
+     Harry Potter and the Prisoner of Azkaban
+  George Clooney and Julia Roberts both appeared in
+     Oceans Eleven
+  Hugh Grant and Liam Neeson both appeared in
+     Love Actually
+  Hugh Grant and Martin Freeman both appeared in
+     Love Actually
+  Jim Carrey and Morgan Freeman both appeared in
+     Bruce Almighty
+  Jim Carrey and Renee Zellweger both appeared in
+     Me-Myself & Irene
+  Johnny Depp and Kate Winslet both appeared in
+     Finding Neverland
+  Julianne Moore and Sylvester Stallone both appeared in
+     Assassins
+  Kate Winslet and Leonardo Di Caprio both appeared in
+     Titanic
+  Kevin Bacon and Tom Cruise both appeared in
+     A Few Good Men
+  Leonardo Di Caprio and Matt Damon both appeared in
+     The Departed
+  Leonardo Di Caprio and Tom Hanks both appeared in
+     Catch Me If You Can
+  Liam Neeson and Martin Freeman both appeared in
+     Love Actually
+  Meg Ryan and Tom Hanks both appeared in
+     Sleepless in Seattle
+     You have got mail
+  Renee Zellweger and Russell Crowe both appeared in
+     Cinderella Man
+  Renee Zellweger and Tom Cruise both appeared in
+     Jerry Maguire
+  Salma Hayek and Will Smith both appeared in
+     Wild Wild West
+
+
+**These movie pairs share cast members:
+  A Beautiful Mind & American Gangster:
+    Russell Crowe was in them
+  A Beautiful Mind & Cinderella Man:
+    Russell Crowe was in them
+  A Beautiful Mind & Gladiator:
+    Russell Crowe was in them
+  A Few Good Men & Jerry Maguire:
+    Tom Cruise was in them
+  A Few Good Men & Mission Impossible:
+    Tom Cruise was in them
+  A Few Good Men & Sleepers:
+    Kevin Bacon was in them
+  A Few Good Men & Top Gun:
+    Tom Cruise was in them
+  Ace Ventura & Bruce Almighty:
+    Jim Carrey was in them
+  Ace Ventura & Me-Myself & Irene:
+    Jim Carrey was in them
+  Ace Ventura & The Mask:
+    Jim Carrey was in them
+  American Gangster & Bone Collector:
+    Denzel Washington was in them
+  American Gangster & Cinderella Man:
+    Russell Crowe was in them
+  American Gangster & Gladiator:
+    Russell Crowe was in them
+  American Gangster & The Siege:
+    Denzel Washington was in them
+  Apollo 13 & Catch Me If You Can:
+    Tom Hanks was in them
+  Apollo 13 & Sleepless in Seattle:
+    Tom Hanks was in them
+  Apollo 13 & You have got mail:
+    Tom Hanks was in them
+  Assassins & Hannibal:
+    Julianne Moore was in them
+  Assassins & Rambo:
+    Sylvester Stallone was in them
+  Assassins & Rocky:
+    Sylvester Stallone was in them
+  Blood Diamond & Catch Me If You Can:
+    Leonardo Di Caprio was in them
+  Blood Diamond & The Departed:
+    Leonardo Di Caprio was in them
+  Blood Diamond & Titanic:
+    Leonardo Di Caprio was in them
+  Bone Collector & Bruce Almighty:
+    Morgan Freeman was in them
+  Bone Collector & Lara Croft Tomb Raider:
+    Angelina Jolie was in them
+  Bone Collector & Million Dollar Baby:
+    Morgan Freeman was in them
+  Bone Collector & Mr & Mrs Smith:
+    Angelina Jolie was in them
+  Bone Collector & Seven:
+    Morgan Freeman was in them
+  Bone Collector & The Siege:
+    Denzel Washington was in them
+  Bounce & Good Will Hunting:
+    Ben Affleck was in them
+  Bounce & Pearl Harbor:
+    Ben Affleck was in them
+  Bounce & Proof:
+    Gwyneth Paltrow was in them
+  Bounce & Shakespeare in Love:
+    Gwyneth Paltrow was in them
+  Bourne Identity & Bourne Ultimatum:
+    Matt Damon was in them
+  Bourne Identity & Good Will Hunting:
+    Matt Damon was in them
+  Bourne Identity & The Departed:
+    Matt Damon was in them
+  Bourne Ultimatum & Good Will Hunting:
+    Matt Damon was in them
+  Bourne Ultimatum & The Departed:
+    Matt Damon was in them
+  Bruce Almighty & Me-Myself & Irene:
+    Jim Carrey was in them
+  Bruce Almighty & Million Dollar Baby:
+    Morgan Freeman was in them
+  Bruce Almighty & Seven:
+    Morgan Freeman was in them
+  Bruce Almighty & The Mask:
+    Jim Carrey was in them
+  Catch Me If You Can & Sleepless in Seattle:
+    Tom Hanks was in them
+  Catch Me If You Can & The Departed:
+    Leonardo Di Caprio was in them
+  Catch Me If You Can & Titanic:
+    Leonardo Di Caprio was in them
+  Catch Me If You Can & You have got mail:
+    Tom Hanks was in them
+  Cinderella Man & Gladiator:
+    Russell Crowe was in them
+  Cinderella Man & Jerry Maguire:
+    Renee Zellweger was in them
+  Cinderella Man & Me-Myself & Irene:
+    Renee Zellweger was in them
+  Desperado & The Mask of Zorro:
+    Antonio Banderas was in them
+  Desperado & Wild Wild West:
+    Salma Hayek was in them
+  Die Hard & Pulp Fiction:
+    Bruce Willis was in them
+  Die Hard & The Siege:
+    Bruce Willis was in them
+  Die Hard & The Sixth Sense:
+    Bruce Willis was in them
+  Edward Scissorhands & Finding Neverland:
+    Johnny Depp was in them
+  Edward Scissorhands & The Pirates of Caribbean:
+    Johnny Depp was in them
+  Finding Neverland & The Pirates of Caribbean:
+    Johnny Depp was in them
+  Finding Neverland & Titanic:
+    Kate Winslet was in them
+  Gambit & Harry Potter and the Chamber of Secrets:
+    Alan Rickman was in them
+  Gambit & Harry Potter and the Deathly Hallows: Part 1:
+    Alan Rickman was in them
+  Gambit & Harry Potter and the Order of the Phoenix:
+    Alan Rickman was in them
+  Gambit & Harry Potter and the Prisoner of Azkaban:
+    Alan Rickman was in them
+  Gambit & Love Actually:
+    Alan Rickman and Colin Firth were both in them
+  Gambit & Nanny McPhee:
+    Colin Firth was in them
+  Good Will Hunting & Pearl Harbor:
+    Ben Affleck was in them
+  Good Will Hunting & The Departed:
+    Matt Damon was in them
+  Hannibal & Meet Joe Black:
+    Anthony Hopkins was in them
+  Hannibal & Proof:
+    Anthony Hopkins was in them
+  Hannibal & The Edge:
+    Anthony Hopkins was in them
+  Harry Potter and the Chamber of Secrets & Harry Potter and the Deathly Hallows: Part 1:
+    Alan Rickman, Daniel Radcliffe, Emma Watson, and Rupert Glint were all in them
+  Harry Potter and the Chamber of Secrets & Harry Potter and the Order of the Phoenix:
+    Alan Rickman, Daniel Radcliffe, Emma Watson, and Rupert Glint were all in them
+  Harry Potter and the Chamber of Secrets & Harry Potter and the Prisoner of Azkaban:
+    Alan Rickman, Daniel Radcliffe, Emma Watson, and Rupert Glint were all in them
+  Harry Potter and the Chamber of Secrets & Love Actually:
+    Alan Rickman was in them
+  Harry Potter and the Deathly Hallows: Part 1 & Harry Potter and the Order of the Phoenix:
+    Alan Rickman, Daniel Radcliffe, Emma Watson, and Rupert Glint were all in them
+  Harry Potter and the Deathly Hallows: Part 1 & Harry Potter and the Prisoner of Azkaban:
+    Alan Rickman, Daniel Radcliffe, Emma Watson, and Rupert Glint were all in them
+  Harry Potter and the Deathly Hallows: Part 1 & Love Actually:
+    Alan Rickman and Bill Nighy were both in them
+  Harry Potter and the Order of the Phoenix & Harry Potter and the Prisoner of Azkaban:
+    Alan Rickman, Daniel Radcliffe, Emma Thompson, Emma Watson, and Rupert Glint were all in them
+  Harry Potter and the Order of the Phoenix & Love Actually:
+    Alan Rickman and Emma Thompson were both in them
+  Harry Potter and the Order of the Phoenix & Nanny McPhee:
+    Emma Thompson was in them
+  Harry Potter and the Prisoner of Azkaban & Love Actually:
+    Alan Rickman and Emma Thompson were both in them
+  Harry Potter and the Prisoner of Azkaban & Nanny McPhee:
+    Emma Thompson was in them
+  Hitch & Men in Black:
+    Will Smith was in them
+  Hitch & Pursuit of Happyness:
+    Will Smith was in them
+  Hitch & Wild Wild West:
+    Will Smith was in them
+  Intolerable Cruelty & Oceans Eleven:
+    George Clooney was in them
+  Intolerable Cruelty & The Mask of Zorro:
+    Catherine Zeta Jones was in them
+  Jerry Maguire & Me-Myself & Irene:
+    Renee Zellweger was in them
+  Jerry Maguire & Mission Impossible:
+    Tom Cruise was in them
+  Jerry Maguire & Top Gun:
+    Tom Cruise was in them
+  Lara Croft Tomb Raider & Mr & Mrs Smith:
+    Angelina Jolie was in them
+  Love Actually & Nanny McPhee:
+    Colin Firth and Emma Thompson were both in them
+  Me-Myself & Irene & The Mask:
+    Jim Carrey was in them
+  Meet Joe Black & Mr & Mrs Smith:
+    Brad Pitt was in them
+  Meet Joe Black & Oceans Eleven:
+    Brad Pitt was in them
+  Meet Joe Black & Proof:
+    Anthony Hopkins was in them
+  Meet Joe Black & Seven:
+    Brad Pitt was in them
+  Meet Joe Black & Sleepers:
+    Brad Pitt was in them
+  Meet Joe Black & The Edge:
+    Anthony Hopkins was in them
+  Meet Joe Black & Troy:
+    Brad Pitt was in them
+  Men in Black & Pursuit of Happyness:
+    Will Smith was in them
+  Men in Black & Wild Wild West:
+    Will Smith was in them
+  Million Dollar Baby & Seven:
+    Morgan Freeman was in them
+  Mission Impossible & Top Gun:
+    Tom Cruise was in them
+  Mr & Mrs Smith & Oceans Eleven:
+    Brad Pitt was in them
+  Mr & Mrs Smith & Seven:
+    Brad Pitt was in them
+  Mr & Mrs Smith & Sleepers:
+    Brad Pitt was in them
+  Mr & Mrs Smith & Troy:
+    Brad Pitt was in them
+  Oceans Eleven & Pretty Woman:
+    Julia Roberts was in them
+  Oceans Eleven & Runaway Bride:
+    Julia Roberts was in them
+  Oceans Eleven & Seven:
+    Brad Pitt was in them
+  Oceans Eleven & Sleepers:
+    Brad Pitt was in them
+  Oceans Eleven & Troy:
+    Brad Pitt was in them
+  Pearl Harbor & The Edge:
+    Alec Baldwin was in them
+  Pretty Woman & Runaway Bride:
+    Julia Roberts was in them
+  Proof & Shakespeare in Love:
+    Gwyneth Paltrow was in them
+  Proof & The Edge:
+    Anthony Hopkins was in them
+  Pulp Fiction & The Siege:
+    Bruce Willis was in them
+  Pulp Fiction & The Sixth Sense:
+    Bruce Willis was in them
+  Pursuit of Happyness & Wild Wild West:
+    Will Smith was in them
+  Rambo & Rocky:
+    Sylvester Stallone was in them
+  Seven & Sleepers:
+    Brad Pitt was in them
+  Seven & Troy:
+    Brad Pitt was in them
+  Sleepers & The Lost City:
+    Dustin Hoffman was in them
+  Sleepers & Troy:
+    Brad Pitt was in them
+  Sleepless in Seattle & You have got mail:
+    Meg Ryan and Tom Hanks were both in them
+  The Departed & Titanic:
+    Leonardo Di Caprio was in them
+  The Siege & The Sixth Sense:
+    Bruce Willis was in them
+
+
+**Who has each actor worked with?
+   Alan Rickman has appeared in movies with Bill Nighy, Colin Firth, Daniel Radcliffe, Emma Thompson, Emma Watson, Hugh Grant, Liam Neeson, Martin Freeman, and Rupert Glint
+   Alec Baldwin has appeared in movies with Anthony Hopkins and Ben Affleck
+   Angelina Jolie has appeared in movies with Brad Pitt, Denzel Washington, and Morgan Freeman
+   Anthony Hopkins has appeared in movies with Alec Baldwin, Brad Pitt, Gwyneth Paltrow, and Julianne Moore
+   Antonio Banderas has appeared in movies with Catherine Zeta Jones and Salma Hayek
+   Ben Affleck has appeared in movies with Alec Baldwin, Gwyneth Paltrow, and Matt Damon
+   Bill Nighy has appeared in movies with Alan Rickman, Colin Firth, Daniel Radcliffe, Emma Thompson, Emma Watson, Hugh Grant, Liam Neeson, Martin Freeman, and Rupert Glint
+   Brad Pitt has appeared in movies with Angelina Jolie, Anthony Hopkins, Dustin Hoffman, George Clooney, Julia Roberts, Kevin Bacon, and Morgan Freeman
+   Bruce Willis has appeared in movies with Denzel Washington
+   Catherine Zeta Jones has appeared in movies with Antonio Banderas and George Clooney
+   Colin Firth has appeared in movies with Alan Rickman, Bill Nighy, Emma Thompson, Hugh Grant, Liam Neeson, and Martin Freeman
+   Daniel Radcliffe has appeared in movies with Alan Rickman, Bill Nighy, Emma Thompson, Emma Watson, and Rupert Glint
+   Denzel Washington has appeared in movies with Angelina Jolie, Bruce Willis, Morgan Freeman, and Russell Crowe
+   Dustin Hoffman has appeared in movies with Brad Pitt and Kevin Bacon
+   Emma Thompson has appeared in movies with Alan Rickman, Bill Nighy, Colin Firth, Daniel Radcliffe, Emma Watson, Hugh Grant, Liam Neeson, Martin Freeman, and Rupert Glint
+   Emma Watson has appeared in movies with Alan Rickman, Bill Nighy, Daniel Radcliffe, Emma Thompson, and Rupert Glint
+   George Clooney has appeared in movies with Brad Pitt, Catherine Zeta Jones, and Julia Roberts
+   Gwyneth Paltrow has appeared in movies with Anthony Hopkins and Ben Affleck
+   Hugh Grant has appeared in movies with Alan Rickman, Bill Nighy, Colin Firth, Emma Thompson, Liam Neeson, and Martin Freeman
+   Jim Carrey has appeared in movies with Morgan Freeman and Renee Zellweger
+   Johnny Depp has appeared in movies with Kate Winslet
+   Julia Roberts has appeared in movies with Brad Pitt and George Clooney
+   Julianne Moore has appeared in movies with Anthony Hopkins and Sylvester Stallone
+   Kate Winslet has appeared in movies with Johnny Depp and Leonardo Di Caprio
+   Kevin Bacon has appeared in movies with Brad Pitt, Dustin Hoffman, and Tom Cruise
+   Leonardo Di Caprio has appeared in movies with Kate Winslet, Matt Damon, and Tom Hanks
+   Liam Neeson has appeared in movies with Alan Rickman, Bill Nighy, Colin Firth, Emma Thompson, Hugh Grant, and Martin Freeman
+   Martin Freeman has appeared in movies with Alan Rickman, Bill Nighy, Colin Firth, Emma Thompson, Hugh Grant, and Liam Neeson
+   Matt Damon has appeared in movies with Ben Affleck and Leonardo Di Caprio
+   Meg Ryan has appeared in movies with Tom Hanks
+   Morgan Freeman has appeared in movies with Angelina Jolie, Brad Pitt, Denzel Washington, and Jim Carrey
+   Renee Zellweger has appeared in movies with Jim Carrey, Russell Crowe, and Tom Cruise
+   Rupert Glint has appeared in movies with Alan Rickman, Bill Nighy, Daniel Radcliffe, Emma Thompson, and Emma Watson
+   Russell Crowe has appeared in movies with Denzel Washington and Renee Zellweger
+   Salma Hayek has appeared in movies with Antonio Banderas and Will Smith
+   Sylvester Stallone has appeared in movies with Julianne Moore
+   Tom Cruise has appeared in movies with Kevin Bacon and Renee Zellweger
+   Tom Hanks has appeared in movies with Leonardo Di Caprio and Meg Ryan
+   Will Smith has appeared in movies with Salma Hayek

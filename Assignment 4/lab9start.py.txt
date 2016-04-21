@@ -1,0 +1,22 @@
+import sys
+
+def inputMovieInfo(filename):
+
+   '''filename (string) is the name of a file.
+      Each line in filename contains a name followed by a list of movies,
+      where commas separate the various names.  Here is an example: 
+      Brad Pitt, Sleepers, Troy, Meet Joe Black, Oceans Eleven
+
+      Read the data and print it, line by line.''' 
+
+   f = open(filename,'r')
+   for line in f:
+      line = line.strip()
+      print(line)      
+   return []
+
+def main():
+   data = inputMovieInfo(sys.argv[1])
+   
+main()
+

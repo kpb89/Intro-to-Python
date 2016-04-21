@@ -1,0 +1,22 @@
+Python 3.4.2 (v3.4.2:ab2c023a9432, Oct  6 2014, 22:15:05) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Please enter the amount you pay for loan in the form xx.yy: 250.89
+Please enter how many times per year you pay: 12
+$3,010.68
+Please enter the amount you pay for insurance in the form xx.yy: 444.88
+Please enter how many times per year you pay: 2
+$889.76
+Please enter the amount you pay for gas in the form xx.yy: 330.66
+Please enter how many times per year you pay: 12
+$3,967.92
+Please enter the amount you pay for oil in the form xx.yy: 45.00
+Please enter how many times per year you pay: 4
+$180.00
+Please enter the amount you pay for maintenance in the form xx.yy: 550.00
+Please enter how many times per year you pay: 4
+$2,200.00
+The total yearly cost is $10,248.36
+The total monthly cost is $854.03
+>>> 

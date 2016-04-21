@@ -1,0 +1,114 @@
+**All actors in the database:
+  
+Actor1
+  
+Actor2
+  
+Actor3
+  
+Actor4
+  
+Actor5
+  
+Actor6
+  
+Actor7
+
+
+**All movies in the database:
+  
+Movie1
+  
+Movie2
+  
+Movie3
+  
+Movie4
+  
+Movie5
+
+
+
+
+**These actor pairs have appeared together:
+  
+Actor1 and Actor2 both appeared in
+     Movie2
+  
+Actor1 and Actor3 both appeared in
+     Movie2
+  
+Actor1 and Actor5 both appeared in
+     Movie3
+  
+Actor1 and Actor6 both appeared in
+     Movie3
+  
+Actor1 and Actor7 both appeared in
+     Movie3
+  
+Actor2 and Actor3 both appeared in
+     Movie2
+     Movie4
+  
+Actor4 and Actor5 both appeared in
+     Movie5
+  
+Actor4 and Actor6 both appeared in
+     Movie5
+  
+Actor4 and Actor7 both appeared in
+     Movie5
+  
+Actor5 and Actor6 both appeared in
+     Movie3
+     Movie5
+  
+Actor5 and Actor7 both appeared in
+     Movie3
+     Movie5
+  
+Actor6 and Actor7 both appeared in
+     Movie3
+     Movie5
+
+
+
+
+
+**These movie pairs share cast members:
+  
+Movie1 & Movie2:
+    Actor1 was in them
+  
+Movie1 & Movie3:
+    Actor1 was in them
+  
+Movie2 & Movie3:
+    Actor1 was in them
+  
+Movie2 & Movie4:
+    Actor2 and Actor3 were both in them
+  
+Movie3 & Movie5:
+    Actor5, Actor6, and Actor7 were all in them
+
+
+
+
+
+**Who has each actor worked with?
+   
+Actor1 has appeared in movies with Actor2, Actor3, Actor5, Actor6, and Actor7
+   
+Actor2 has appeared in movies with Actor1 and Actor3
+   
+Actor3 has appeared in movies with Actor1 and Actor2
+   
+Actor4 has appeared in movies with Actor5, Actor6, and Actor7
+   
+Actor5 has appeared in movies with Actor1, Actor4, Actor6, and Actor7
+   
+Actor6 has appeared in movies with Actor1, Actor4, Actor5, and Actor7
+   
+Actor7 has appeared in movies with Actor1, Actor4, Actor5, and Actor6
